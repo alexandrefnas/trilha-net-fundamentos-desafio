@@ -1,0 +1,15 @@
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+c:\Users\xanda\OneDrive\Alexandre\Repositorio\dio-trilha-net\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
